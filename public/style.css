@@ -24,14 +24,14 @@ body {
     font-family: 'Arial', sans-serif;
     font-size: 36px;
     font-weight: bold;
-    color: #f5f8fa; /* warna biru, bisa diganti dengan warna lain sesuai keinginan */
+    color: #f5f8fa; 
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
 
 .workshop-container {
-    background-color: #00ccff; /* warna latar belakang, bisa diganti dengan warna lain sesuai keinginan */
+    background-color: #00ccff; 
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
